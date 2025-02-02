@@ -12,7 +12,7 @@
   appearance: none;
   border-radius: 24px;
   border-style: none;
-  font-size: var(--m);
+  font-size: var(--size-s);
   font-weight: 400;
   letter-spacing: 0.25px;
 

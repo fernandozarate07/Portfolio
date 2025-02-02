@@ -18,7 +18,7 @@
   background-color: transparent;
   transition: all 0.3s ease-in-out;
   opacity: 0.2;
-  font-size: var(--xxl);
+  font-size: var(--size-xxl);
 }
 .project__projectBtn:hover {
   transform: scale(1.5);
@@ -81,14 +81,14 @@
   align-items: center;
 }
 .project__title {
-  font-size: var(--xxl);
+  font-size: var(--size-l);
   font-weight: 700;
 }
 .project__title:hover {
   color: var(--primary-color);
 }
 .project__basecode {
-  font-size: var(--m);
+  font-size: var(--size-s);
 }
 .project__basecode:hover {
   color: var(--secondary-color);
@@ -99,7 +99,7 @@
   gap: 10px;
 }
 .project__description {
-  font-size: var(--m);
+  font-size: var(--size-s);
 }
 .project__opcion {
   padding-top: 10px;
@@ -107,8 +107,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-
-  font-size: var(--s);
 }
 @media (max-width: 992px) {
   .project {

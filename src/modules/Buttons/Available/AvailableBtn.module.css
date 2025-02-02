@@ -12,7 +12,7 @@
   text-decoration: none;
   border: 0;
   touch-action: manipulation;
-  font-size: var(--m);
+  font-size: var(--size-s);
   letter-spacing: 0.25px;
 
   color: var(--primary-color);

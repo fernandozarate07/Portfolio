@@ -21,11 +21,11 @@
   flex-direction: column;
   gap: 20px;
 
-  font-size: var(--m);
+  font-size: var(--size-s);
 }
 .aboutme__infoContainer i {
   padding-right: 10px;
-  font-size: var(--m);
+  font-size: var(--size-s);
   color: var(--primary-color);
 }
 .btnsContainer {

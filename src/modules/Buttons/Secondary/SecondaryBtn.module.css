@@ -1,5 +1,5 @@
 .button {
-  font-size: 2rem;
+  font-size: var(--size-m);
   color: var(--primary-color);
 }
 .button:hover {
