@@ -25,12 +25,12 @@
   align-items: center;
   gap: 20px;
 }
-.navSection__buttonsContainer {
+.nav__btnsContainer {
   width: 100%;
   display: flex;
   justify-content: space-around;
 }
-.navSection__copy {
+.nav__copy {
   text-align: center;
   font-size: var(--s);
   font-weight: 400;
