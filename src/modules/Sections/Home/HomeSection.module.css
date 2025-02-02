@@ -45,9 +45,8 @@
 }
 @media (max-width: 576px) {
   .home {
-    padding-inline: 10px;
+    padding: 10px;
     gap: 20px;
-    padding-bottom: 10px;
   }
   .home__title {
     font-size: var(--size-l);
