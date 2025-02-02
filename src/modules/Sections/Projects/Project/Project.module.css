@@ -18,7 +18,7 @@
   background-color: transparent;
   transition: all 0.3s ease-in-out;
   opacity: 0.2;
-  font-size: var(--size-xxl);
+  font-size: var(--size-m);
 }
 .project__projectBtn:hover {
   transform: scale(1.5);

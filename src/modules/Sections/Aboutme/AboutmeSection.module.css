@@ -15,7 +15,9 @@
   justify-content: center;
   gap: 40px;
 }
-
+.aboutme__title {
+  font-size: var(--size-l);
+}
 .aboutme__infoContainer {
   display: flex;
   flex-direction: column;
@@ -57,5 +59,10 @@
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
     gap: 0px;
+  }
+  @media (max-width: 576px) {
+    .aboutme__resumeImg {
+      margin-top: 20px;
+    }
   }
 }
