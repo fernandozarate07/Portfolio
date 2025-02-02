@@ -4,7 +4,7 @@ import resume from "../../../assets/images/resume.png";
 
 const AboutmeSection = () => {
   const handleDownloadPDF = () => {
-    const pdfUrl = "../../../../public/fernandozarateresume.pdf";
+    const pdfUrl = "/fernandozarateresume.pdf";
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.download = "fernandozarateresume.pdf";
