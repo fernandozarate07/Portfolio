@@ -24,8 +24,8 @@ const AboutmeSection = () => {
           </span>
           <span>
             <i className="fa-solid fa-check"></i>
-            Manejo un stack basado en tecnologías modernas como JavaScript, React, Next.js, Node.js, Express y
-            PostgreSQL.
+            Manejo un stack basado en tecnologías modernas como HTML, CSS, Bootstrap, JavaScript, TypeScript, React,
+            Next.js, Node.js, Express, MySQL, PostgreSQL y MongoDB.
           </span>
           <span>
             <i className="fa-solid fa-check"></i>
