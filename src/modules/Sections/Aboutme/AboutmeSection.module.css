@@ -62,7 +62,7 @@
   }
   @media (max-width: 576px) {
     .aboutme__resumeImg {
-      margin-top: 20px;
+      width: 300px;
     }
   }
 }
