@@ -1,4 +1,4 @@
-import styles from "./Secondarybutton.module.css";
+import styles from "./SecondaryBtn.module.css";
 
 const SecondaryBtn = ({ link, content }) => {
   // Función para abrir la ventana emergente más pequeña solo para el correo

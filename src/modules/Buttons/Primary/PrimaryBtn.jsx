@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import styles from "./Buttonprimary.module.css";
+import styles from "./PrimaryBtn.module.css";
 
 const PrimaryBtn = ({ type, content, section, link, action }) => {
   const handleClick = (e) => {

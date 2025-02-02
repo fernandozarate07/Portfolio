@@ -1,4 +1,4 @@
-import styles from "./Cta.module.css";
+import styles from "./AvailableBtn.module.css";
 
 const AvailableBtn = ({ link, content }) => {
   return (

@@ -1,0 +1,7 @@
+.button {
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+.button:hover {
+  color: var(--secondary-color);
+}
