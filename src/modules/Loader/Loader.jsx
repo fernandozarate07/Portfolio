@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import styles from "./Loader.module.css";
-import logo from "../../assets/image/logo.svg";
+import logo from "../../assets/images/logo.svg";
 
 const Loader = ({ onComplete }) => {
   const [fadeOut, setFadeOut] = useState(false);

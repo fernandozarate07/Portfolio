@@ -1,6 +1,6 @@
 import styles from "./AboutmeSection.module.css";
-import PrimaryBtn from "../Buttons/Primary/PrimaryBtn.jsx";
-import resume from "../../assets/image/resume.png";
+import PrimaryBtn from "../../Buttons/Primary/PrimaryBtn.jsx";
+import resume from "../../../assets/images/resume.png";
 
 const AboutmeSection = () => {
   const handleDownloadPDF = () => {

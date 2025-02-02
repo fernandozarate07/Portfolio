@@ -1,7 +1,7 @@
 import styles from "./HomeSection.module.css";
-import AvailableBtn from "../Buttons/Available/AvailableBtn.jsx";
-import avatar from "../../assets/images/avatar.svg";
-import PrimaryBtn from "../Buttons/Primary/PrimaryBtn.jsx";
+import AvailableBtn from "../../Buttons/Available/AvailableBtn.jsx";
+import avatar from "../../../assets/images/avatar.svg";
+import PrimaryBtn from "../../Buttons/Primary/PrimaryBtn.jsx";
 
 const HomeSection = () => {
   return (

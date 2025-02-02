@@ -1,10 +1,10 @@
 import { useState, useEffect } from "react";
 import styles from "./ProjectSection.module.css";
-import Project from "./Project/Project,jsx";
+import Project from "./Project/Project.jsx";
 
-import imgOne from "../../assets/image/one.svg";
-import imgTwo from "../../assets/image/two.svg";
-import imgThree from "../../assets/image/three.svg";
+import imgOne from "../../../assets/images/truetone.svg";
+import imgTwo from "../../../assets/images/simther.svg";
+import imgThree from "../../../assets/images/protoprogramadores.svg";
 
 const ProjectSection = () => {
   const projects = [

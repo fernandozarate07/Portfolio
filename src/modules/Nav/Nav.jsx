@@ -1,6 +1,6 @@
 import Bar from "./Bar/Bar.jsx";
 import styles from "./Nav.module.css";
-import logo from "../../assets/image/logo.svg";
+import logo from "../../assets/images/logo.svg";
 import SecondaryBtn from "../Buttons/Secondary/SecondaryBtn.jsx";
 
 const Nav = () => {
